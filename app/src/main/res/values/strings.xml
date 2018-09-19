@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas 1</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Profile">Profile</string>
+    <string name="Setting">Setting</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="jabatan">
+        <item>Mahasiswa</item>
+        <item>Dosen</item>
+        <item>Staff</item>
+    </string-array>
+</resources>
